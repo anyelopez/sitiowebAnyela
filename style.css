@@ -1,0 +1,24 @@
+body
+{
+    background-color: rgb(235, 184, 224);
+    font: oblique bold 120% cursive;
+}
+
+
+.myButton1 {
+    grid-area: maincontenido;
+      box-shadow:inset 0px 1px 0px 0px #3dc21b;
+      background:linear-gradient(to bottom, #44c767 5%, #a3e67e 100%);
+      background-color:#44c767;
+      border-radius:10px;
+      border:3px solid #93c497;
+      display:inline-block;
+      cursor:pointer;
+      color:#ffffff;
+      font: oblique bold 120% cursive;
+      font-size:15px;
+      font-weight:bold;
+      padding:10px 37px;
+      text-decoration:none;
+      text-shadow:-1px 3px 32px #2f6627;
+  }
